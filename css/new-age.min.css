@@ -374,9 +374,16 @@ footer ul li a:hover {
   font-family: Lato, Helvetica, Arial, sans-serif;
   letter-spacing: 2px;
   text-transform: uppercase;
+  color: #008000;
+  border-color: #008000;
+  background-color: #008000;
+  font: white;
 }
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px;
   color: white;
+  border-color: #008000;
+  background-color: #008000;
+
 }
