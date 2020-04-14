@@ -715,7 +715,7 @@
 } */
 .device-mockup.galaxy_s10.portrait > .device,
 .device-mockup.galaxy_s10 > .device {
-  background-image: url(device-mockups/galaxy_S10/galaxy_s10_port.png);
+  background-image: url(./galaxy_S10/galaxy_s10_port.png);
 }
 /* .device-mockup.galaxy_s10.landscape > .device {
   background-image: url(galaxy_s10/galaxy_s10_land.png);
