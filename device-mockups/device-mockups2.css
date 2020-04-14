@@ -770,3 +770,31 @@
 .device-mockup[data-device="samsung_tv"][data-orientation="landscape"] > .device > .screen {
     top: 2.148803%; bottom: 12.817127%; left: 1.261956%; right: 1.361956%;
 }
+
+/* Galaxy S10 */
+.device-mockup[data-device="galaxy_s10"],
+.device-mockup[data-device="galaxy_s10"][data-orientation="portrait"] {
+	padding-bottom: 156.521739%;
+}
+
+.device-mockup[data-device="galaxy_s10"][data-orientation="landscape"] {
+	padding-bottom: 63.6678201%;
+}
+
+.device-mockup[data-device="galaxy_s10"] > .device,
+.device-mockup[data-device="galaxy_s10"][data-orientation="portrait"] > .device {
+	background-image: url("galaxy_s10/galaxy_s10_port.png");
+}
+
+.device-mockup[data-device="galaxy_s10"][data-orientation="landscape"] > .device {
+	background-image: url("galaxy_s10/galaxy_s10_land.png");
+}
+
+.device-mockup[data-device="galaxy_s10"] > .device > .screen,
+.device-mockup[data-device="galaxy_s10"][data-orientation="portrait"] > .device > .screen {
+	top: 13.1365741%; bottom: 12.7893519%; left: 13.7681159%; right: 13.7681159%;
+}
+
+.device-mockup[data-device="galaxy_s10"][data-orientation="landscape"] > .device > .screen {
+	top: 13.7681159%; bottom: 13.7681159%; left: 13.0911188%; right: 13.0911188%;
+}
