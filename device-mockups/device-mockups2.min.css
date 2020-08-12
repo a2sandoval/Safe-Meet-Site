@@ -852,16 +852,16 @@
 .device-mockup[data-device="galaxy_s10"][data-orientation="portrait"] {
   padding-bottom: 156.521739%;
 }
-.device-mockup[data-device="galaxy_s10"][data-orientation="landscape"] {
+/* .device-mockup[data-device="galaxy_s10"][data-orientation="landscape"] {
   padding-bottom: 63.6678201%;
-}
+} */
 .device-mockup[data-device="galaxy_s10"] > .device,
 .device-mockup[data-device="galaxy_s10"][data-orientation="portrait"] > .device {
   background-image: url(galaxy_s10/galaxy_s10_port.png);
 }
-.device-mockup[data-device="galaxy_s10"][data-orientation="landscape"] > .device {
+/* .device-mockup[data-device="galaxy_s10"][data-orientation="landscape"] > .device {
   background-image: url(galaxy_s10/galaxy_s10_land.png);
-}
+} */
 .device-mockup[data-device="galaxy_s10"] > .device > .screen,
 .device-mockup[data-device="galaxy_s10"][data-orientation="portrait"]
   > .device
