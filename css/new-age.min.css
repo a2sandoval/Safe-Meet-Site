@@ -387,3 +387,9 @@ footer ul li a:hover {
   background-color: #008000;
 
 }
+
+.intro {
+  padding-top: 50px;
+  padding-left:10px;
+  padding-right:10px;
+}
